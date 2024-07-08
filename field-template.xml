@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+  <fields>
+    <field name="Event">
+      <value>Stake Young Men's Camp at Camp Mia Shalom</value>
+    </field>
+     <field name="Dates of event">
+      <value>July 17 - July 20 2024</value>
+    </field>
+    <field name="Ward">
+      <value>Orem Park 8th</value>
+    </field>
+    <field name="Stake">
+      <value>Orem Park</value>
+    </field>
+    <field name="Event or activity leader">
+      <value>John Faragher</value>
+    </field>
+    <field name="Event or activity leaders phone number">
+      <value>(801) 787-1502</value>
+    </field>
+    <field name="Participants signature">
+      <value>{22}</value>
+    </field>
+    <field name="Date">
+      <value>{0}</value>
+    </field>
+    <field name="Parent or guardians signature if participant is a minor">
+      <value>{24}</value>
+    </field>
+     <field name="Date_2">
+      <value>{0}</value>
+    </field>
+    <field name="Event description">
+      <value>Stake Young Men's Camp at Camp Mia Shalom</value>
+    </field>
+    <field name="Other limitations">
+      <value>{20}</value>
+    </field>
+    <field name="Special needs">
+      <value>{21}</value>
+    </field>
+    <field name="Self Admin">
+      <value>{15}</value>
+    </field>
+    <field name="Chronic illness">
+      <value>{16}</value>
+    </field>
+    <field name="illness explanation">
+      <value>{17}</value>
+    </field>
+    <field name="Surgery">
+      <value>{18}</value>
+    </field>
+     <field name="If yes please explain_2">
+      <value>{19}</value>
+    </field>
+    <field name="Participant">
+      <value>{1}</value>
+    </field>
+    <field name="Date of birth">
+      <value>{2}</value>
+    </field>
+    <field name="Age">
+      <value>{3}</value>
+    </field>
+    <field name="Telephone number">
+      <value>{4}</value>
+    </field>
+    <field name="Emergency contact parent or guardian">
+      <value>{8}</value>
+    </field>
+    <field name="Primary phone_1">
+      <value>{9}</value>
+    </field>
+    <field name="Secondary phone_1">
+      <value></value>
+    </field>
+     <field name="diet explanation">
+      <value>{11}</value>
+    </field>
+    <field name="Allergy explanation">
+      <value>{13}</value>
+    </field>
+    <field name="List of Medications">
+      <value>{14}</value>
+    </field>
+    <field name="Special diet">
+      <value>{10}</value>
+    </field>
+    <field name="Allergies">
+      <value>{12}</value>
+    </field>
+    <field name="Address">
+      <value>{5}</value>
+    </field>
+    <field name="City">
+      <value>{6}</value>
+    </field>
+    <field name="State or Province">
+      <value>{7}</value>
+    </field>
+  </fields>
+</xfdf>
